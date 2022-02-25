@@ -1,0 +1,603 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pope's advice to his sons a conference in the Castle St. Angelo between the Pope, the Emperour, and the King of Spain : printed from an ancient manuscript.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55438</idno>
+            <idno type="STC">Wing P2926</idno>
+            <idno type="STC">ESTC R8672</idno>
+            <idno type="EEBO-CITATION">13736858</idno>
+            <idno type="OCLC">ocm 13736858</idno>
+            <idno type="VID">101637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101637)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Pope's advice to his sons a conference in the Castle St. Angelo between the Pope, the Emperour, and the King of Spain : printed from an ancient manuscript.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.S. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Satire in verse on the Catholic Church, presumably inspired by the Popish Plot.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Humor.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101637:1"/>
+            <pb facs="tcp:101637:1" rendition="simple:additions"/>
+            <p>THE Pope's Advice TO HIS SONS.</p>
+            <p>A Conference IN THE Caſtle St. Angelo, Between the Pope, the Emperour, and the King of <hi>Spain.</hi>
+            </p>
+            <p>
+               <hi>Printed from an Ancient Manuſcript.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. S.</hi> near the Grate in <hi>Little Britain.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101637:2"/>
+            <pb n="1" facs="tcp:101637:2"/>
+            <head>The Conſult.</head>
+            <stage>
+               <hi>Pope, Emperour, King of</hi> Spain.</stage>
+            <sp>
+               <speaker>Pope.</speaker>
+               <l>WElcom, dear Sons, unto our Court of <hi>Rome,</hi>
+               </l>
+               <l>Bleſſing Apoſtolick and Holy Doom</l>
+               <l>Shield all the Houſe of <hi>Auſtria</hi> from miſ<g ref="char:EOLhyphen"/>chance,</l>
+               <l>And both their Fortunes and their Crowns advance.</l>
+            </sp>
+            <sp>
+               <speaker>Emperour.</speaker>
+               <l>Thy Foot, moſt Holy Father, do I kiſs,</l>
+               <l>Of Churches Benediction do I miſs;</l>
+               <l>Th'Emperial Crown from <hi>Auſtria</hi> will be gone,</l>
+               <l>Which Heav'ns forbid; for then we're all undone.</l>
+               <l>
+                  <hi>Bohemia</hi>'s Rebels with <hi>Hungaria</hi> joyn;</l>
+               <l>The Hereticks from <hi>Danube</hi> to the <hi>Rhine,</hi>
+               </l>
+               <l>Their Heads, their Arms, their Forces they combine,</l>
+               <l>'Gainſt <hi>Rome</hi> and <hi>Auſtria.</hi> Oh, the
+<note n="*" place="margin">Frederick <hi>Prince Elector Palatine of the</hi> Rhine, <hi>Fa<g ref="char:EOLhyphen"/>ther to Prince</hi> Rupert, <hi>whoſe elder Brother is now Prince Elector Pala<g ref="char:EOLhyphen"/>tine.</hi>
+                  </note> 
+                  <hi>Palatine!</hi>
+               </l>
+               <l>That curſed <hi>Calviniſt,</hi> with his Partakers,</l>
+               <l>Thoſe damned Schiſmaticks, the Church forſakers,</l>
+               <l>Upon our Ruins to build their Fortunes ſeek,</l>
+               <l>Which makes me thus before thy Holineſs ſpeak.</l>
+            </sp>
+            <pb n="2" facs="tcp:101637:3"/>
+            <sp>
+               <speaker>Pope.</speaker>
+               <l>The Keys of <hi>Peter,</hi> and the Sword of <hi>Paul,</hi>
+               </l>
+               <l>Shall ſhut and open, cur in pieces, all</l>
+               <l>The Gates of Heav'n, Nations, Laws, and Rights,</l>
+               <l>And turn clear Days into the darkeſt Nights,</l>
+               <l>E're one of <hi>Calvin</hi>'s or of <hi>Luther</hi>'s Sect</l>
+               <l>With <hi>Roman</hi> Bays or Eagles ſhall be deckt.</l>
+            </sp>
+            <sp>
+               <speaker>Emperour.</speaker>
+               <l>The Threats and Curſes of the Catholicks</l>
+               <l>Are now deſpis'd by thoſe vile Hereticks:</l>
+               <l>Help us by your Counſel therefore, Holy Sir,</l>
+               <l>And ſhew us means to quiet all this ſtir.</l>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <l>Thou mayſt by Reaſons and Embaſſages,</l>
+               <l>By Queſtions, Anſwers, and like paſſages,</l>
+               <l>Win time awhile: But theſe are our of date;</l>
+               <l>Now Swords, not Words, do Kingdoms arbitrate.</l>
+               <l>To Neighbour Friends and Subjects quickly ſend,</l>
+               <l>That from Surpriſe thou mayſt thy ſelf defend.</l>
+               <l>My <hi>Nuntio's</hi> and my <hi>Legats</hi> I'd diſpatch,</l>
+               <l>More Forces 'mongſt the Catholicks to hatch:</l>
+               <l>
+                  <hi>Mentz, Cullen, Triers,</hi> Catholick <hi>Bavier,</hi>
+               </l>
+               <l>Haſt thou in <hi>Germany,</hi> with others there;</l>
+               <l>Thy Uncle <hi>Albert,</hi> and the <hi>Poliſh</hi> King,</l>
+               <l>Unto thee quickly may their Forces bring;</l>
+               <l>And though my ſelf, with <hi>Florence,</hi> may not ſend</l>
+               <l>Our Arms ſo ſoon, yet Money will we lend.</l>
+               <l>The <hi>Cantons</hi> of the <hi>Switzers</hi> ſhall be waged,</l>
+               <l>Which to our See do hold themſelves engaged:</l>
+               <l>So is the <hi>Saxon</hi> Duke with his Eſtate,</l>
+               <l>To thee in <hi>Dreſden,</hi> and th'<hi>Electorate,</hi>
+               </l>
+               <pb n="3" facs="tcp:101637:3"/>
+               <l>Whoſe elder Couſin's Hopes will make him fear,</l>
+               <l>And to thy Fortune and thy Houſe adhere.</l>
+               <l>I'll alſo ſend to <hi>Savoy</hi> and to <hi>Venice,</hi>
+               </l>
+               <l>To <hi>France</hi> our eldeſt Son, and to S. <hi>Denis:</hi>
+                  <note place="margin">
+                     <hi>The King of</hi> France <hi>is ſty<g ref="char:EOLhyphen"/>led by the Pope his eldest Son, and moſt Chri<g ref="char:EOLhyphen"/>ſtian, and the King of</hi> Spain <hi>his most Ca<g ref="char:EOLhyphen"/>tholick Son.</hi>
+                  </note>
+               </l>
+               <l>I'll fetch the Saints from Heav'n, the Fiends from Hell,</l>
+               <l>But I'll theſe drunken <hi>German</hi> Rebels quell.</l>
+               <l>Beſides, thy <hi>Spaniſh</hi> Couſin preſent here,</l>
+               <l>Whom <hi>Europe</hi> and the new-found World do fear,</l>
+               <l>The Church's <hi>Atlas,</hi> and the Empire's Prop.</l>
+               <l>By Strength, by Wit, by Friends, or Gold, we'll ſtop</l>
+               <l>Theſe proud Attempts and Darings of the <hi>Dutch,</hi>
+               </l>
+               <l>And break their Forces, coſt it ne'r ſo much.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>King of</hi> Spain.</speaker>
+               <l>If <hi>Caeſar</hi> and your Holineſs have done,</l>
+               <l>Obſerve the Anſwer of your <hi>Spaniſh</hi> Son.</l>
+               <l>Not <hi>German</hi> Prelats nor <hi>Bavarians</hi> can,</l>
+               <l>Nor King of <hi>Pole,</hi> your ſelf, or any Man,</l>
+               <l>Nor <hi>Tuſcan</hi>'s Duke, nor <hi>Albert</hi> my poor Brother,</l>
+               <l>The <hi>Canton</hi> Catholicks, nor any other,</l>
+               <l>Bring timely Succours 'gainſt the Conjurations</l>
+               <l>Theſe <hi>Almain-Graves</hi> have made throughout all Nations.</l>
+               <l>Expect not help from <hi>Savoy</hi> or <hi>Venetia.</hi>
+               </l>
+               <l>Who fear and deadly hate the Houſe of <hi>Auſtria:</hi>
+               </l>
+               <l>I look for nothing from the King of <hi>France,</hi>
+               </l>
+               <l>For he'd gladly by our Fall his Throne advance.</l>
+               <l>And why ſhould you from <hi>Saxon</hi> hope for more,</l>
+               <l>Than <hi>Charles</hi> my Grandſire reap'd from him before?</l>
+               <l>Who gave him all, and more than you do mention,</l>
+               <l>Yet ſhortly after in the great Contention</l>
+               <l>'Twixt him and <hi>German</hi> Rebels he forſook</l>
+               <l>His Benefactor, and part againſt him took.</l>
+               <l>And, <hi>Caeſar,</hi> if at home thou lookſt for Aid,</l>
+               <l>Thy Kingdoms both are loſt, thy Strength decay'd;</l>
+               <l>Thine <hi>Auſtrian</hi> Subjects alſo are infected</l>
+               <l>With <hi>Luther</hi>'s Hereſie, and have rejected</l>
+               <l>The Papal Dignity, and may do thine,</l>
+               <l>And with their Fellow <hi>Lutherans</hi> combine.</l>
+               <pb n="4" facs="tcp:101637:4"/>
+               <l>
+                  <hi>Spain,</hi> then muſt help, or what will <hi>Caeſar</hi> do?</l>
+               <l>And how ſhall <hi>Spain</hi> help <hi>Rome</hi> and <hi>Caeſar</hi> too?</l>
+               <l>Shall <hi>Indian</hi> Armies be recall'd from thence?</l>
+               <l>
+                  <hi>Italian</hi> Forces march away from hence?</l>
+               <l>Leave <hi>Milan, Naples,</hi> and our Silver Fountains,</l>
+               <l>Unguarded, naked, to march o're Mountains?</l>
+               <l>Through <hi>Griſon</hi>'s Countrey lead the ſtrength of <hi>Spain?</hi>
+               </l>
+               <l>
+                  <note place="margin">
+                     <hi>In</hi> 1588. <hi>the</hi> Spaniards <hi>in<g ref="char:EOLhyphen"/>vaded</hi> Eng<g ref="char:EOLhyphen"/>land <hi>with an Armada of</hi> 134 <hi>Ships, of which onely</hi> 53 <hi>returned home again.</hi>
+                  </note> Or venture our <hi>Armada</hi> once again</l>
+               <l>To Narrow Seas, and ſo at once loſe more</l>
+               <l>Than we have got in ſix ſcore years before?</l>
+               <l>So thou at <hi>Habſpurg,</hi> I in <hi>Arragon,</hi>
+               </l>
+               <l>May ſhave our Crowns, turn Monks, and live alone.</l>
+               <l>You count your Friends, but count not all your Foes,</l>
+               <l>Whoſe Strength, whoſe Number, you cannot oppoſe.</l>
+               <l>The Northern Tract of <hi>Europe</hi> from <hi>Britannia</hi>
+               </l>
+               <l>
+                  <note place="margin">Protestants not inferiour (if united) in ſtrength to the Papiſts.</note> Tending to Eaſt as far as <hi>Tranſylvania</hi>
+               </l>
+               <l>(Save <hi>Poland</hi> and ſome trifles) is their own:</l>
+               <l>Oh me! in fourſcore years how are they grown?</l>
+               <l>Three Kingdoms, <hi>England, Scotland, Ireland,</hi> be,</l>
+               <l>With <hi>Denmark, Norway, Sweden,</hi> ſix you ſee;</l>
+               <l>Beſides thoſe two which they have won from thee,</l>
+               <l>Being eight in all, and our Kings are but three.</l>
+               <l>The Number of their Princes, Dukes, and Counts,</l>
+               <l>With their Free Lords and States, ours far ſurmounts.</l>
+               <l>And as their Number, ſo their Spirits are</l>
+               <l>Made great with hopes of the prodigious Star,
+<note place="margin">
+                     <hi>This Comet ap<g ref="char:EOLhyphen"/>peared as far above the Moon, as the Moon is above the Earth, as was obſerved by the Learned Dr.</hi> Bem<g ref="char:EOLhyphen"/>bridge.</note>
+               </l>
+               <l>Which o're <hi>Almain</hi> blaz'd <hi>December</hi> laſt,</l>
+               <l>The dire Portents of which they on us caſt.</l>
+               <l>Alas for <hi>Rome!</hi> alas for <hi>Ferdinand!</hi>
+               </l>
+               <l>Alas for <hi>Philip!</hi> Muſt he needs withſtand</l>
+               <l>His own, the Empire, and the Church's Foes,</l>
+               <l>And ſo himſelf, the Church, and Empire loſe?</l>
+               <l>Have all my Anceſtors to five deſcents,</l>
+               <l>By Conqueſt, Wedlock, and like Ligaments,</l>
+               <l>Ty'd Earldoms, Dukedoms, Crowns, and Empire faſt,</l>
+               <l>And is the Period of our Greatneſs paſt?</l>
+               <l>And our Declining now begins to haſt,</l>
+               <l>Who hop'd for Weſtern Monarchy at laſt.</l>
+               <l>Ah
+<note n="*" place="margin">William <hi>of</hi> Naſſau <hi>Prince of</hi> Orange, <hi>Anceſtor to the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>aſent Prince.</hi>
+                  </note> 
+                  <hi>Naſſau! Naſſau!</hi> hateful Son and Father,</l>
+               <l>Curs'd be your Name and Houſe; you, you did gather</l>
+               <pb n="5" facs="tcp:101637:4"/>
+               <l>The Fearful Rebels into warlike Bands,</l>
+               <l>Which now do State it in the <hi>Netherlands:</hi>
+               </l>
+               <l>There, there you writ <hi>Nil <g ref="char:V">Ʋ</g>ltra</hi> once again,</l>
+               <l>And ſet up Eaſtern Pillars, Bars to <hi>Spain.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Emperour.</speaker>
+               <l>Thus are our Dangers, thus our Fears related,</l>
+               <l>Thus be our Minds perplex'd, our Hearts amated.</l>
+               <l>If <hi>Rome</hi> have any ſecret wiſdom hid.</l>
+               <l>Laid up for evil times, or ever did</l>
+               <l>Make wicked Hereticks ſeel Church's Pow'r,</l>
+               <l>Then Father now's the time, and this the hour:</l>
+               <l>Remember how two <hi>Fredericks</hi> heretofore</l>
+               <l>Frighted thy Predeceſſors: this may more.</l>
+               <l>Hazard thy Fortunes, utterly oppreſs</l>
+               <l>The <hi>Roman</hi> Church, thy Self, and Us, unleſs</l>
+               <l>By ſome prime Stratagem fetch'd from the Deep,</l>
+               <l>Thou doſt thy Self and Friends from danger keep.</l>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <l>And are our Friends ſo few and ſo untruſty,</l>
+               <l>And be our Foes ſo many and ſo luſty?</l>
+               <l>One <hi>Innocent</hi> in <hi>Rome</hi> in former Ages</l>
+               <l>Hath us'd three Kings for Lacqueys and for Pages:</l>
+               <l>And dare they now againſt our liking make</l>
+               <l>Both Kings and <hi>Caeſars?</hi> Then ye Furies wake!</l>
+               <l>Help me to ſtore of Piſtols, Poiſons, Knives,</l>
+               <l>To Fire and Powder, Manacles and Gives:</l>
+               <l>Bid
+<note n="*" place="margin">Raviliac <hi>murder'd</hi> Henry III. <hi>and</hi> Clement Henry IV. <hi>of</hi> France. Lopez <hi>was executed for attempting to poiſon Qu.</hi> Elizabeth. <hi>And</hi> Faux <hi>and</hi> Garnet <hi>(the Provincial of the Jeſuits) were the chief Actors in the Powder Plot.</hi> Ignatians, <hi>Jeſuits ſo cal<g ref="char:EOLhyphen"/>led from</hi> Igna<g ref="char:EOLhyphen"/>tius Loyola <hi>their firſt Founder.</hi>
+                  </note> 
+                  <hi>Ravilac</hi> and <hi>Clement</hi> hie them hither,</l>
+               <l>Let <hi>Lopez, Faux,</hi> and <hi>Garnet</hi> come together;</l>
+               <l>Come ye <hi>Ignatiuns,</hi> bring Aſſiſſinates,</l>
+               <l>Left-handed <hi>Eliuds,</hi> that do rule the Fates,</l>
+               <l>And cut the Threds of Princes Lives aſunder;</l>
+               <l>Theſe <hi>Roman Scevola's</hi> ſhall make men wonder,</l>
+               <l>To ſee the upſtart King, with his Partakers,</l>
+               <l>In every Nation ſlaughter'd by Maſſacries.</l>
+               <pb n="6" facs="tcp:101637:5"/>
+               <l>I'll raiſe up <hi>Parſons,
+<note place="margin">Parſons <hi>wrote a Book againſt King</hi> James<hi>'s Succeſſion to the Crown of</hi> England <hi>in behalf of the Infanta of</hi> Spain.</note> Suarez, Bellarmine,</hi>
+               </l>
+               <l>
+                  <hi>Loyola</hi>'s ſelf, their Father, and refine</l>
+               <l>All Humane Wit to one pure Quinteſcence,</l>
+               <l>Againſt whoſe Virtue ſhall be no defence:</l>
+               <l>Therefore, Fair Sons, at nothing be diſmay'd,</l>
+               <l>Remember what your Father now hath ſaid:</l>
+               <l>You to <hi>Vienna,</hi> you to <hi>Sivil</hi> go,</l>
+               <l>Help as you may to give the Fatal Blow.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>King of</hi> Spain.</speaker>
+               <l>Come, <hi>Lerma,</hi> look not ſadly on thy Friend,</l>
+               <l>But let's with <hi>Spaniſh</hi> Patience wait the end.</l>
+            </sp>
+            <stage>Pope and Cardinal.</stage>
+            <sp>
+               <speaker>Cardinal.</speaker>
+               <l>Father, what news with <hi>Caeſar,</hi> what with <hi>Spain?</hi>
+               </l>
+               <l>Why are they both ſo ſoon gone home again?</l>
+               <l>What ſtrange Diſaſter makes thee look ſo ſad,</l>
+               <l>Whoſe Fair Aſpect was wont to make men glad?</l>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <l>Thou art my Son, my Friend, my Cabinet</l>
+               <l>Of Secrets lock'd from others: Thou I'll let</l>
+               <l>Know all my hidden Thoughts, my Doubts, my Fears,</l>
+               <l>And how theſe <hi>Auſtrians</hi> left me drown'd in tears:</l>
+               <l>Yet in their preſence I my Sorrow hid,</l>
+               <l>Seem'd fearleſs, careleſs, confident, and bid</l>
+               <l>Them ſecond <hi>Roman</hi> Wiſdom with their Strength,</l>
+               <l>And they ſhould ſee theſe <hi>Dutchmen</hi> bleed at length.</l>
+               <l>But now a thouſand thoughts upon me ſeize</l>
+               <l>Concerning Friends and Foes, which much diſpleaſe:</l>
+               <l>Wherefore ſay ſome thing prethee to relieve me,</l>
+               <l>For thou wer't wont to help when ought did grieve me.</l>
+            </sp>
+            <pb n="7" facs="tcp:101637:5"/>
+            <sp>
+               <speaker>Cardinal.</speaker>
+               <l>'Tis not for King nor <hi>Caeſar</hi> thou art ſick;</l>
+               <l>Thou dread'ſt the Name of Emp'rour; <hi>Spain</hi>'s a Prick</l>
+               <l>In both thy ſides, whoſe Neighbourhood and Growth</l>
+               <l>
+                  <hi>Rome</hi> ever hated: Why then art thou loth</l>
+               <l>The <hi>Dutch</hi> ſhould pare their Nails unto the quick,</l>
+               <l>E'r they be longer grown, and then do kick</l>
+               <l>At thy Authority, like <hi>Charles</hi> their Father,</l>
+               <l>Who like the Heathen <hi>Goths</hi> ſack'd <hi>Rome?</hi> Nay rather,</l>
+               <l>If <hi>France</hi> again claim <hi>Naples,</hi> ſeize on <hi>Milain,</hi>
+               </l>
+               <l>Or on <hi>Navar.</hi> Let me me be held a Villain,</l>
+               <l>If I ſee cauſe of ſhedding but a Tear</l>
+               <l>For weak'ning him, whoſe Strength ſo much we fear.</l>
+               <l>But thus the Faction of more feared Foes</l>
+               <l>(Thou'lt ſay) is ſtronger, and more dreadful grows;</l>
+               <l>And <hi>Bohemians</hi> and <hi>Hungarians</hi> Loſſes</l>
+               <l>Make open way to further nearer Croſſes;</l>
+               <l>Firſt to the Iron, then to the Triple Crown,</l>
+               <l>And ſo we hazard all if Fortune frown.</l>
+               <l>As though <hi>Bohemian</hi>'s King were like the Day-ſtar,</l>
+               <l>Forerunning <hi>Phoebus,</hi> and muſt needs be <hi>Caeſar:</hi>
+               </l>
+               <l>Or that from <hi>Prague</hi> or <hi>Hidelburg</hi> he will</l>
+               <l>Adventure o're the <hi>Alps</hi> to us, and fill</l>
+               <l>The World with Tumult: <hi>Italy</hi> will fear</l>
+               <l>To ſee his Lance-Knights or his Reyſters here.</l>
+               <l>Theſe are <hi>Chimera's,</hi> Bugbears, Fancies, Toys,</l>
+               <l>Fit to fright <hi>Abſaloms</hi> or ſome little Boys;</l>
+               <l>Not wiſe <hi>Italians,</hi> Cardinals, or Popes,</l>
+               <l>Who know that Towns are not pull'd down with Ropes.</l>
+               <l>Think you the <hi>Palſgrave,</hi> or this
+<note n="*" place="margin">
+                     <hi>Prince of</hi> Dacia <hi>claim<g ref="char:EOLhyphen"/>ing the</hi> Hun<g ref="char:EOLhyphen"/>garian <hi>Crown, and command<g ref="char:EOLhyphen"/>ing a puiſſant Army againſt the Emperour.</hi>
+                  </note> 
+                  <hi>Bethlem Gabor,</hi>
+               </l>
+               <l>Will not account their Wages worth their Labour,</l>
+               <l>If he <hi>Bohemia,</hi> this <hi>Hungaria</hi> keep,</l>
+               <l>And in their new Poſſeſſions ſafely ſleep?</l>
+               <l>Is't like they will adventure all their Winnings,</l>
+               <l>T'aſpire the Empire on ſo ſmall beginnings?</l>
+               <l>Or if they ſhould, when <hi>Ferdinand</hi> is dead,</l>
+               <l>Set the Imperial Crown on <hi>Frederick</hi>'s Head,</l>
+               <l>Another <hi>Adolph</hi> he were like to be,</l>
+               <l>When Error in their Choice th' Electors ſee:</l>
+               <pb n="8" facs="tcp:101637:6"/>
+               <l>For who ſhall guard their Frontiers 'gainſt the <hi>Turks</hi>
+               </l>
+               <l>But <hi>Auſtria,</hi> whoſe they are? What danger lurks</l>
+               <l>Under the Greatneſs of this <hi>Tranſylvanian.</hi>
+               </l>
+               <l>Who to the <hi>Turk</hi>'s a Friend and a Companion?</l>
+               <l>The Hereticks themſelves would ſee their Error,</l>
+               <l>When once the Heat were paſt, and that new terror</l>
+               <l>From <hi>Turks</hi> and <hi>Catholicks</hi> had hem'd them round,</l>
+               <l>And then to our advantage they'd compound.</l>
+               <l>But ſay the <hi>Turks</hi> be ſtill, and we endure</l>
+               <l>To ſee the <hi>Palſgrave</hi> triumph, ſeated ſure</l>
+               <l>In <hi>Caeſar</hi>'s Chair, can any one ſuppoſe</l>
+               <l>That he's not yet contented with our Woes?</l>
+               <l>Or that he'll elevate his thoughts ſo high,</l>
+               <l>To think on <hi>Rome,</hi> or look towards <hi>Italy?</hi>
+               </l>
+               <l>Why, 'twere a harder task to undertake,</l>
+               <l>Than <hi>Caius Julius Caeſar</hi>'s ſelf did make,</l>
+               <l>When o're the other <hi>Alps</hi> from <hi>France</hi> he came</l>
+               <l>'Gainſt <hi>Rome</hi> and <hi>Pompey,</hi> to his laſting Fame.</l>
+               <l>Yet let's admit this Youth dares more than he,</l>
+               <l>Or like <hi>Macedon</hi>'s <hi>Alexander</hi> be,</l>
+               <l>Muſt his Succeſs he like? why nothing leſs;</l>
+               <l>For one may dare that's dying, you'll confeſs:</l>
+               <l>The <hi>Romans</hi> then were moſt of <hi>Caeſar</hi>'s Faction,</l>
+               <l>He had their Heads for Counſel, Hands for Action:</l>
+               <l>But <hi>Frederick</hi> now hath neither Head nor Hand</l>
+               <l>'Twixt <hi>Trent</hi> and <hi>Rheggium</hi> on his part to ſtand.</l>
+               <l>And if the modern Action of the <hi>Gauls</hi>
+               </l>
+               <l>(Th'old being fearleſs) now thy Heart appales;</l>
+               <l>To think how <hi>Charles</hi> of <hi>Valois</hi> came like Thunder,</l>
+               <l>Brought <hi>Milan, Naples, Genoua, Florence</hi> under</l>
+               <l>Within few months: Or how another <hi>Charles</hi>
+               </l>
+               <l>Of <hi>Bourbon</hi> did beſiege, and (after Parles)</l>
+               <l>Aſſaulted, won, and ſack'd this famous City,</l>
+               <l>Whoſe Souldiers to the Clergy ſhew'd no pity.</l>
+               <l>Alas thou know'ſt <hi>Valeſius</hi> was invited</l>
+               <l>By <hi>Lod'wick</hi>'s Force, when he was diſunited</l>
+               <l>From <hi>Naples,</hi> for uſurping <hi>Milan</hi>'s Crown,</l>
+               <l>And ſo the State of <hi>Italy</hi> went down.</l>
+               <l>And as for <hi>Bourbon,</hi> 'twas a Civil War</l>
+               <l>He manag'd here at home, came not from far;</l>
+               <pb n="9" facs="tcp:101637:6"/>
+               <l>Who to relieve his own and Souldier's need,</l>
+               <l>To unprovided <hi>Rome</hi> he runs with ſpeed.</l>
+               <l>Our Land is now united, rich, and ſtrong,</l>
+               <l>Who can, who dares to do us any wrong?
+<note place="margin">Porſenna <hi>a King of</hi> He<g ref="char:EOLhyphen"/>truria, <hi>who be<g ref="char:EOLhyphen"/>ſieged</hi> Rome <hi>on</hi> Tarquin<hi>'s quarrel.</hi> Muti<g ref="char:EOLhyphen"/>us Scaevola, <hi>a Nobleman of</hi> Rome, <hi>went into</hi> Porſen<g ref="char:EOLhyphen"/>na<hi>'s Camp in the habit of a Beggar, with an intent to kill him.</hi>
+                  </note>
+               </l>
+               <l>And if <hi>Porſenna</hi> could revive once more,</l>
+               <l>We'd have a <hi>Mutius Scaevola</hi> in ſtore.</l>
+               <l>Thus is the Falſhood of thy Fears detected,</l>
+               <l>And I have anſwer'd all can be objected,</l>
+               <l>Not from the Promiſes to <hi>Peter</hi>'s Chair,</l>
+               <l>(Which we in ſecret count not worth an hair)</l>
+               <l>But from ſound Reaſons whereon we may reſt,</l>
+               <l>And at the Folly of our Foes may jeſt:</l>
+               <l>Wherefore put on the Spirit of
+<note n="*" place="margin">
+                     <hi>This</hi> Hilde<g ref="char:EOLhyphen"/>brand <hi>made the Emperour</hi> Henry IV. <hi>wait before his Palace bare-footed without any food, from morning till night, before he would ad<g ref="char:EOLhyphen"/>mit him into his Preſence.</hi>
+                  </note> 
+                  <hi>Hildebrand,</hi>
+               </l>
+               <l>And neither King nor Prince can thee withſtand.</l>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <l>Ah my dear Heart, thy words are paſſing ſweet,</l>
+               <l>And do with all my Fears and Sorrows meet.</l>
+               <l>But things themſelves another way preſent</l>
+               <l>Unto my Fancy; nothing will content.</l>
+               <l>Chiefly i'th' Night, when others are at reſt,</l>
+               <l>Why then my Cares abound, my Heart's oppreſt;</l>
+               <l>A little ſleep alas mine Eyes do take,</l>
+               <l>Yet when they do, I'm worſe than when I wake;</l>
+               <l>For then I dream of Emperours, Princes, Kings,</l>
+               <l>Of Sword, of Fire, and ſuch like fearful things:</l>
+               <l>A <hi>Frederick, Henry,</hi> or a <hi>Charles</hi> doth ſtand</l>
+               <l>Ready to ſtrike me with a Sword in's Hand.</l>
+               <l>Sometimes methinks I ſee the Northern Nations</l>
+               <l>Come down the Mountains like to Inundations,</l>
+               <l>As did the <hi>Goths</hi> and <hi>Vandals</hi> in their times,</l>
+               <l>Who marr'd our Language with their buzzing Rimes.</l>
+               <l>Sometimes this <hi>Frederick</hi> ſhews a Printed Book</l>
+               <l>To all his Lords and Princes, bids them look</l>
+               <l>How therein <hi>Britain James</hi> his Learned Father</l>
+               <l>Choice Arguments and Strains of Wit doth gather</l>
+               <l>To prove me <hi>Antichriſt,</hi> and to incite</l>
+               <l>
+                  <hi>European</hi> Princes 'gainſt me for to fight.</l>
+               <l>The <hi>Belgicks</hi> talk much of the Inquiſition;</l>
+               <l>The <hi>French</hi> methinks I hear make repetition</l>
+               <pb n="10" facs="tcp:101637:7" rendition="simple:additions"/>
+               <l>Of the Maſſacre:
+<note place="margin">
+                     <hi>The Papiſts made uſe of the Marriage of the King of</hi> Navar <hi>a Pro<g ref="char:EOLhyphen"/>teſtant, and the Lady</hi> Mar<g ref="char:EOLhyphen"/>garet <hi>the</hi> French <hi>King's Sister, to draw the Proteſtant Nobility toge<g ref="char:EOLhyphen"/>ther, under the pretence of ſet<g ref="char:EOLhyphen"/>tling by this Match a laſt<g ref="char:EOLhyphen"/>ing Friendſhip, and then moſt barbarouſly and treache<g ref="char:EOLhyphen"/>rouſly mur<g ref="char:EOLhyphen"/>der'd them on S.</hi> Bartholo<g ref="char:EOLhyphen"/>mew<hi>'s Eve,</hi> 1573.</note> Both do whet their Swords,</l>
+               <l>And ſpeak 'gainſt <hi>Rome</hi> and me moſt cruel words.</l>
+               <l>I ſee methinks the <hi>Engliſh</hi> reading ſtill</l>
+               <l>Of <hi>Fox</hi> and <hi>Brightman,</hi> which their Minds do fill</l>
+               <l>With much deſire and certain expectation</l>
+               <l>Of my Deſtruction and <hi>Rome</hi>'s Deſolation.</l>
+               <l>And then methinks from <hi>Venice</hi> comes a Poſt,</l>
+               <l>And he brings News that all will there be loſt.</l>
+               <l>Another comes and ſays that <hi>Ferdinand</hi>
+               </l>
+               <l>Cries out for help, and can no longer ſtand,</l>
+               <l>Unleſs expected Aid come in with ſpeed,</l>
+               <l>And with delays no longer him they feed.</l>
+               <l>And then methinks the Agents thither ſent</l>
+               <l>Excuſe their Maſters by Impediment:</l>
+               <l>
+                  <hi>Spain</hi> ſays, the ways by Sea and Land are block'd;</l>
+               <l>The Youngling <hi>France</hi> is by his Subjects mock'd.</l>
+               <l>
+                  <hi>Albertus</hi> dares not ſtir from home, he ſays;</l>
+               <l>The <hi>Pole</hi> methinks anſwers with Yeas and Nays.</l>
+               <l>The <hi>German</hi> Catholicks begin to wrangle,</l>
+               <l>And ſay, theſe Wars in miſchief them entangle.</l>
+               <l>And when at laſt with much ado I find</l>
+               <l>Some high reſolved Spirit of
+<note n="*" place="margin">
+                     <hi>This</hi> Gerard <hi>murder'd the Prince of</hi> O<g ref="char:EOLhyphen"/>range <hi>at</hi> Delph, 1584.</note> 
+                  <hi>Gerara</hi>'s mind;</l>
+               <l>Yet then his Knife's not ſharp, or Powder dry,</l>
+               <l>Or elſe he ſtrook too low, or ſhot too high.</l>
+               <l>Or elſe like <hi>Scaevola</hi> miſtook the Man,</l>
+               <l>And ſo our I abour's loſt do what we can.</l>
+               <l>I caſt <hi>Romes</hi> Fortune, and mine own on thee;</l>
+               <l>Save <hi>Rome</hi> then, if thou canſt, and pity me.</l>
+            </sp>
+            <sp>
+               <speaker>Cardinal.</speaker>
+               <l>If Dreams for them, and Reaſons make for us,</l>
+               <l>Theſe Controverſies quickly we'll diſcuſs.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>THere is newly Printed a</hi> Vade Mecum, <hi>or</hi> Neceſſary Companion; containing, 1. Sir <hi>Samuel Morland</hi>'s Perpetual Almanack, in Copper Plates, with many uſeful Tables proper thereto. 2. The Computation of Years, comparing the Years of each King's Reign from the Conqueſt with the Years of <hi>Chriſt.</hi> 3 Re<g ref="char:EOLhyphen"/>duction of Weights and Meaſures. 4. The ready Caſting up any number of Farthings, Half-pence, Pence, Shillings, Nobles and Marks; with Sir <hi>Samuel Morland</hi>'s New Table for Guinneys. 5. The Intereſt and Rebate of Money, the Forbearance, Diſcomp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and Purchaſe of Annuitices, at 6 per Cent. The Rates of Poſt-Letters, both inland and Outland, with the Time for ſending or receiving them; alſo the Poſt-Stages. 7. The Rates or Fares of Coach-men, Car-men, and Water-men. And is ſold by <hi>R. Northcot,</hi> Bookſeller, either next St. Peter<hi>'s</hi> Alley in Cornhill, or at the Anchor and Mariner on Fiſh Street-Hill; and by <hi>Charles Blount,</hi> Bookſeller, at the Black-Raven in the Strand, near the Savoy 1679. Price bound 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
